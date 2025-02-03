@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.aws_demo.AwsDemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-21T05:23:47" hostname="DESKTOP-VOD6E54" time="0.623">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.aws_demo.AwsDemoApplicationTests" time="0.623"/>
+  <system-out><![CDATA[14:23:45.982 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.aws_demo.AwsDemoApplicationTests]: AwsDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:23:46.107 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.aws_demo.AwsDemoApplication for test class com.example.aws_demo.AwsDemoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.1)
+
+2025-01-21T14:23:46.502+09:00  INFO 3284 --- [aws-demo] [    Test worker] c.e.aws_demo.AwsDemoApplicationTests     : Starting AwsDemoApplicationTests using Java 17.0.13 with PID 3284 (started by User in C:\Users\User\Desktop\aws-demo\aws-demo)
+2025-01-21T14:23:46.502+09:00  INFO 3284 --- [aws-demo] [    Test worker] c.e.aws_demo.AwsDemoApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2025-01-21T14:23:47.604+09:00  INFO 3284 --- [aws-demo] [    Test worker] c.e.aws_demo.AwsDemoApplicationTests     : Started AwsDemoApplicationTests in 1.341 seconds (process running for 2.429)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

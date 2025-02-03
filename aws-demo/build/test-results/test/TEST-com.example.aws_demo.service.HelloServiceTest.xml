@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.aws_demo.service.HelloServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-21T05:23:48" hostname="DESKTOP-VOD6E54" time="0.01">
+  <properties/>
+  <testcase name="Sum()" classname="com.example.aws_demo.service.HelloServiceTest" time="0.01"/>
+  <system-out><![CDATA[2025-01-21T14:23:48.260+09:00  INFO 3284 --- [aws-demo] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.aws_demo.service.HelloServiceTest]: HelloServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-01-21T14:23:48.260+09:00  INFO 3284 --- [aws-demo] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.aws_demo.AwsDemoApplication for test class com.example.aws_demo.service.HelloServiceTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
